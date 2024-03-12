@@ -41,6 +41,10 @@ section{
     text-align: center;
 }
 
+#skills li:hover{
+    background-color: #adadad;
+}
+
 footer{
     background-color: rgb(128, 81, 125);
     padding: 20px;
